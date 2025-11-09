@@ -1,5 +1,8 @@
 ![poster](https://github.com/PhenixPhyre/Bee-Movie-VHS-Mod/assets/133281438/761ac8d1-fb6d-4e74-aab4-a4d25b219b45)
 
+--A Mod for Project Zomboid-- 
+
+
 Now for Build 42!
 
 The entire Bee Movie in VHS form.

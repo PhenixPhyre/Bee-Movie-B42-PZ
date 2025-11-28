@@ -1,6 +1,6 @@
 version=1
 id=3215026819
-title=Bee Movie VHS
+title=VHS: Bee Movie [B42/B41]
 description=The entire Bee Movie in VHS form.
 description=
 description=Found around the map.
